@@ -5,3 +5,4 @@
 comsol-data/
 images/
 *.qmd
+_quarto.yml
